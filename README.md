@@ -2,8 +2,8 @@
 
 i'm trying my best to make something cool one line of code at a time :)
 
-<img src="https://github-readme-stats.vercel.app/api?username=flyme2bluemoon&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyme2bluemoon&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=flyme2bluemoon&show_icons=true&count_private=true&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyme2bluemoon&layout=compact&langs_count=10&theme=buefy">
 
 <!--
 **flyme2bluemoon/flyme2bluemoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
