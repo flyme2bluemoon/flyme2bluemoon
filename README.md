@@ -8,8 +8,8 @@ i'm trying my best to make something cool one line of code at a time :)
 - [Instagram](https://www.instagram.com/flyme2bluemoon/)  
 - [Blog](https://flymetobluemoon.wordpress.com/)  
 
-![stats](https://github-readme-stats.vercel.app/api?username=flyme2bluemoon&show_icons=true&count_private=true&theme=vision-friendly-dark)  
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flyme2bluemoon&layout=compact&langs_count=10&theme=vision-friendly-dark)  
+![stats](https://github-readme-stats.vercel.app/api?username=flyme2bluemoon&show_icons=true&count_private=true&theme=material-palenight)  
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flyme2bluemoon&layout=compact&langs_count=10&theme=material-palenight)  
 
 <!--
 **flyme2bluemoon/flyme2bluemoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
